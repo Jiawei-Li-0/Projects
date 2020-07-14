@@ -2,10 +2,11 @@
 Project Collection and Discription
 
 
-Tmall: 
-http://35.203.107.20:8080/tmall_springboot/home
+1. Tmall: 
+  Shopping Page: http://35.203.107.20:8080/tmall_springboot/home
+  Commodity Management: 
 
-Trend Investment: 
+2. Trend Investment: 
 
 
-Currency exchange system
+3. Currency exchange system
