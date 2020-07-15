@@ -22,7 +22,7 @@ Project Collection and Discription
    > Apply Histrix for errors tolorance and monitoring.<br> 
    > Apply Zipkin for request tracking.<br> 
    > Apply Zuul for gateway.<br> 
-   
+   > Apply Feign for Restful service invocation.<br> 
    
    http://35.203.107.20:9888/trend <br> 
 
@@ -34,6 +34,7 @@ Project Collection and Discription
    > Apply Histrix for errors tolorance and monitoring.<br> 
    > Apply Zipkin for request tracking.<br> 
    > Apply Zuul for gateway.<br> 
+   > Apply Feign for Restful service invocation.<br> 
    > Apply Git + RabbitMQ for distributed message bus configuration.<br> 
    
 
