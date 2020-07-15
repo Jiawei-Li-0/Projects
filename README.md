@@ -36,7 +36,7 @@
    Features:<br> 
    > Developing on Spring Cloud framework.<br> 
    > Apply JPA + H5 database for for data asscess and persistence.<br> 
-   > Apply Eureka, Histrix, Zipkin, Zuul, Feign, Ribbon, etc.
+   > Apply Eureka, Histrix, Zipkin, Zuul, Feign, Ribbon, etc.<br> 
    > Apply Git + RabbitMQ for distributed message bus configuration.<br> 
    
 
