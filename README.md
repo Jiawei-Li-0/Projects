@@ -1,9 +1,9 @@
 # Projects
 ## Project Collection and Discription
-   The first two projects are deployed and running upon a Linux instance on Google Cloud Platform.
+   The first two projects are deployed and running upon a Linux instance on Google Cloud Platform.<br> 
 
 ### 1. Tmall shopping site: <br> 
-   The application implements most of functions of actual online shopping site, including sign up, login, product searching, shopping cart, purchase process, products rating, Background products management (modify products, add images, deal with orders, etc).
+   The application implements most of functions of actual online shopping site, including sign up, login, product searching, shopping cart, purchase process, products rating, Background products management (modify products, add images, deal with orders, etc).<br> 
    
    Features:<br> 
    >Developing on Spring Boot framework and Vue.js, Ajax, etc.<br> 
@@ -16,7 +16,8 @@
    Background Products Management:  <br> 
 
 ### 2. Trend Investment: <br>
-   Gathering third-party index data and simulate the available trend investment profits based on different parameters setting, and visualizing the simulation results.
+   Gathering third-party index data and simulate the available trend investment profits based on different parameters setting, and visualizing the simulation results.<br> 
+   
    Features:<br> 
    > Developing on Spring Cloud framework and Vue.js, chart.js, etc.<br> 
    > Automatically gathering and refreshing third-party index data and store in Redis caching component.<br> 
@@ -30,7 +31,8 @@
 
 
 ### 3. Currency exchange system
-   A simple currency exchange system. Calculating the converted money based on the exchange rate from one currency to the other. Returning data encapsulated in Json format to borswer.
+   A simple currency exchange system. Calculating the converted money based on the exchange rate from one currency to the other. Returning data encapsulated in Json format to borswer.<br> 
+   
    Features:<br> 
    > Developing on Spring Cloud framework.<br> 
    > Apply JPA + H5 database for for data asscess and persistence.<br> 
