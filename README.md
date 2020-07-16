@@ -11,9 +11,9 @@
    >Apply Redis as caching component.<br> 
    >Apply ElasticSearch engine for products searching.<br> 
    >Use Shrio for private information encryption.<br> 
-   <br> 
+   
    Shopping Page: http://35.203.107.20:8080/tmall_springboot/home <br> 
-   Background Products Management:  <br> 
+   Background Products Management:  http://35.203.107.20:8080/tmall_springboot/admin_category_list<br> 
 
 ### 2. Trend Investment: <br>
    Gathering third-party index data and simulate the available trend investment profits based on different parameters setting, and visualizing the simulation results.<br> 
@@ -27,7 +27,7 @@
    > Apply Feign for Restful service invocation.<br> 
    > Apply Ribbon for load balancing.<br> 
    
-   http://35.203.107.20:9888/trend <br> 
+   Project address: http://35.203.107.20:9888/trend <br> 
 
 
 ### 3. Currency exchange system
