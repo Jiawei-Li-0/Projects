@@ -3,7 +3,7 @@
    The first two projects are deployed and running upon a Linux instance on Google Cloud Platform.<br> 
 
 ### 1. Tmall shopping site: <br> 
-   The application implements most of functions of actual online shopping site, including sign up, login, product searching, shopping cart, purchase process, products rating, background products management (modify products, add images, deal with orders, etc).<br> 
+   The application simulates real shopping site and implements most of functions of actual online shopping site, including sign up, login, product searching, shopping cart, purchase process, products rating, background products management (modify products, add images, deal with orders, etc).<br> 
    
    Features:<br> 
    >Developed on Spring Boot framework and Vue.js, Ajax, etc.<br> 
