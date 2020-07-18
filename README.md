@@ -31,7 +31,7 @@
 
 
 ### 3. Currency Exchange System
-   A simple currency exchange system. Calculating the converted money based on the exchange rate from one currency to the other. Returning data encapsulated in Json format to broswer.<br> 
+   A simple currency exchange system. Calculating the converted money based on the exchange rate from one currency to the other. Returning data encapsulated in Json format to browser.<br> 
    
    Features:<br> 
    > Developed on Spring Cloud framework.<br> 
