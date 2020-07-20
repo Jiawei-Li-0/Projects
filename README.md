@@ -10,7 +10,7 @@
    >Apply Hibernate JPA + MySQL for data asscess and persistence.<br> 
    >Apply Redis as caching component.<br> 
    >Apply ElasticSearch engine for products searching.<br> 
-   >Use Shrio for private information encryption.<br> 
+   >Use Shrio for user private information encryption and login authentication.<br> 
    
    Shopping Page: http://35.203.107.20:8080/tmall_springboot/home <br> 
    Background Products Management:  http://35.203.107.20:8080/tmall_springboot/admin_category_list<br> 
