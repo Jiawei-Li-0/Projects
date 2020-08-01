@@ -1,6 +1,6 @@
 # Projects
 ## Project Collection and Discription
-   The first two projects are deployed and running upon a Linux instance on Google Cloud Platform.<br> 
+   The second project is deployed and running upon a Linux instance on Google Cloud Platform.<br> 
 
 ### 1. Tmall shopping site: <br> 
    The application simulates real shopping site and implements most of functions of actual online shopping site, including sign up, login, product searching, shopping cart, purchase process, products rating, background products management (modify products, add images, deal with orders, etc).<br> 
@@ -12,8 +12,6 @@
    >Apply ElasticSearch engine for products searching.<br> 
    >Use Shrio for user private information encryption and login authentication.<br> 
    
-   Shopping Page: http://35.203.107.20:8080/tmall_springboot/home <br> 
-   Background Products Management:  http://35.203.107.20:8080/tmall_springboot/admin_category_list<br> 
 
 ### 2. Trend Investment: <br>
    Gathering third-party index data and simulate the available trend investment profits based on different parameters setting, and visualizing the simulation results.<br> 
@@ -27,7 +25,7 @@
    > Apply Feign for Restful service invocation.<br> 
    > Apply Ribbon for load balancing.<br> 
    
-   Project address: http://35.203.107.20:9888/trend <br> 
+   Project address: http://108.61.218.79:9888/trend/ <br> 
 
 
 ### 3. Currency Exchange System
